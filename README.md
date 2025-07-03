@@ -52,15 +52,6 @@ python traffic_simulator.py
 
 ---
 
-## 📸 UI Preview
-
-- Road and traffic signals represented with shapes and colors.
-- Vehicles represented with colored rectangles.
-- Signals dynamically changing.
-- Simple buttons to control simulation.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
