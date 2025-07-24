@@ -1,10 +1,10 @@
-# Traffic Control Simulator 🚦
+# Traffic Control Simulator 
 
 A basic GUI-based Traffic Control Simulator built using Python's `tkinter`. This program mimics a traffic scenario with roads, vehicles, and traffic signals that change colors to simulate traffic control. Vehicles move accordingly, providing a simple animated representation of how a traffic system works.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Simulated traffic signals with color changes (Red/Green)
 - Moving vehicle blocks on a graphical road
@@ -14,15 +14,15 @@ A basic GUI-based Traffic Control Simulator built using Python's `tkinter`. This
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- **Language**: Python 🐍
+- **Language**: Python 
 - **GUI**: Tkinter (built-in Python library)
 - **Concurrency**: threading module
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 Traffic_Control_Simulator/
@@ -33,7 +33,7 @@ Traffic_Control_Simulator/
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -52,6 +52,6 @@ python traffic_simulator.py
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
